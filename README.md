@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sujeet Kumar  
-![@SNHacker9)(https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)
+![@SNHacker9](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)
 
 💻 **Backend Engineer | Golang Enthusiast | Cloud & Infra Explorer**  
 
