@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me  
-I’m an **SDE2 at ZopSmart** with 2+ years of experience in backend development.  
+I’m an **SDE2 at ZopSmart** with 3+ years of experience in backend development.  
 Passionate about **Golang, distributed systems, microservices, and cloud-native infrastructure**.  
 I love solving scalability challenges, designing robust APIs, and mentoring budding engineers.  
 
