@@ -66,16 +66,6 @@ I love solving scalability challenges, designing robust APIs, and mentoring budd
 - 👨‍💻 Conducted **10+ technical interviews** for Golang roles (SDE, SDE2, SSDE).  
 - 🧑‍🏫 Mentored **2 engineers**, enabling them to take greater responsibilities.  
 - 🚀 Consistently contributed to improving **scalability & reliability** of enterprise services.  
-
----
-
-## 📊 GitHub Analytics  
-
-![Sujeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujeetjnv2000&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetjnv2000&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=sujeetjnv2000&theme=tokyonight&hide_border=false)  
-![Sujeet's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujeetjnv2000&theme=tokyo-night)  
-
 ---
 
 ⭐️ _“Code for impact, scale for reliability.”_  
