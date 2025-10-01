@@ -1,16 +1,22 @@
-## Hi there 👋
+Final readme file:
+Hi there, I'm Sujeet! 👋🏽
 
-<!--
-**SNHacker9/SNHacker9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me 🚀
+I'm a Software Engineer who is passionate about encouraging others to get in the industry. I enjoy community building, content creation and learning deeply about Javascript and Developer Advocacy.
 
-Here are some ideas to get you started:
+🌱 Currently learning: AI & Machine Learning
+🔭 Working on: CopyPasta Chrome Extension to make it work across browsers
+⚡ Fun fact: I'm Jamaican and I love food 💃🏽
+My Skills 🧠
+HTML CSS JavaScript React Node.js Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Projects 💻
+GitHub Certification Guide 📚
+Demonstrate your proficiency at GitHub by becoming certified. This guide will help you prepare for the exams and provide you with resources to help you succeed.
+
+gh-certs (1)
+
+Get in Touch 📬
+Personal Blog
+LinkedIn
+Twitter
